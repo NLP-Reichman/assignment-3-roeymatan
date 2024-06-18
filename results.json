@@ -2,5 +2,5 @@
  'test_vocab': {'length': 7163, 'tag2id_length': 7, 'Spongebob': 1},
  'test_count_oov': {'dev_oov': 638, 'test_oov': 1368},
  'test_prepare_data_loader': {'lengths': (110, 16, 32)},
- 'test_NERNet': {'f1': 0.9279872675797518, 'f1_wo_o': 0.8244607416157249},
- 'test_glove': {'f1': 0.9441714377396804, 'f1_wo_o': 0.7522388870804471}}
+ 'test_NERNet': {'f1': 0.9333844643384268, 'f1_wo_o': 0.75534873813301},
+ 'test_glove': {'f1': 0.9404137538391124, 'f1_wo_o': 0.7999416841143246}}
